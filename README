@@ -1,1 +1,16 @@
-Text
+Notes on Conjoint Experiment Tool:
+
+The xlsx survey is written for software that uses ODK (open source).  Our survey was implemented in SurveyCTO specifically.  
+
+Note that the calculations for random allocation of dimensions become increasingly complicated with more options for attributes.
+In our example, dimensions 1, 2, and 4 have only two potential attributes each, making the random assignment relatively straightforward.
+Dimension 3 has 3 attributes - pay close attention to how this is calculated.  Increasing the number of attributes would greatly
+increase the effort needed to calculate the random assignment.
+
+The file attributes.csv and the images in the 'small images' folder accompany the survey.
+
+
+Notes on the Social Network Tool:
+
+The protocol uses a file type which is used by Network Canvas: https://www.networkcanvas.com/
+Their website has extensive documentation which can assist in designing your own survey.
