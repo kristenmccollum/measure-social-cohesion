@@ -1,0 +1,7 @@
+att_key,altruism,trust,diversity,participation,photo_alt,photo_tru,photo_div,photo_par,comboA,comboB
+0,The poorest in the community must work to receive assistance from others.,Households can leave their cattle with neighbors for safekeeping while away.,It is not common for livelihoods groups nor marriages to occur across clans.,Members in the community are not active in civic/community groups,low_alt.jpg,high_trust.jpg,low_div.jpg,low_par.jpg,0,1
+1,The poorest in the community receive assistance from others without debt.,Households must leave behind one family member to guard their own cattle while away.,"It is common for livelihoods groups to have members from different clans, but marriages must remain with the same clan.","Members in the community actively participate in civic groups (e.g. savings groups, women's organizations, local government)",high_alt.jpg,low_trust.jpg,med_div.jpg,high_par.jpg,0,2
+2,,,It is common for marriages AND livelihoods groups to occur between clans.,,,,high_div.jpg,,1,2
+3,,,,,,,,,1,0
+4,,,,,,,,,2,1
+5,,,,,,,,,2,0
