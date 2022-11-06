@@ -1,4 +1,12 @@
 NOTES ON CODING AND INCLUSION:
+For each study, I coded the data source (primary, secondary, or both), the description of the indicators used and (when possible) their corresponding option choices.  
+I categorized these into 7 different dimensions which were principally chosen based on how the indicators best sorted themselves.  
+However, the dimensions largely resemble those identified in Valli, Peterman, and Hidrobo (2019), with some additions.
+
+A few caveats: the call for papers included research related to forced displacement and social cohesion, which means some papers explore mediators of, or linkages to, social cohesion, 
+rather than the concept itself.  In these cases, the indicators were not included in the database or resulting categorization.  
+Notes on these coding decisions are documented below.
+
 
 Did not include indicators on labor market outcomes, even though these were very common across papers	
 	Reasoning is because this can be conceptualized more as a mediator (or perhaps consequence) of social cohesion rather than a dimension of it
